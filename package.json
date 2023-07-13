@@ -1,0 +1,25 @@
+{
+  "name": "realtime-chat-app",
+  "version": "1.0.0",
+  "description": "this is a realtime chatroom",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diptobiswas3d/Realtime-Chat-App.git"
+  },
+  "author": "Dipto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/diptobiswas3d/Realtime-Chat-App/issues"
+  },
+  "homepage": "https://github.com/diptobiswas3d/Realtime-Chat-App#readme",
+  "dependencies": {
+    "socket.io": "^4.7.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.0"
+  }
+}
